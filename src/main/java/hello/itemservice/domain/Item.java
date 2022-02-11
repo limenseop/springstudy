@@ -23,4 +23,8 @@ public class Item {
         this.price = price;
         this.quantity = quantity;
     }
+
+    private void hello(){
+
+    }
 }
